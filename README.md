@@ -1,4 +1,4 @@
-# Proyek Text Mining: Analisis Sentimen Komentar YouTube Samsung A56
+# Analisis-Sentimen-Komentar-Review-untuk-Marketing-Mix-7P
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk melakukan analisis sentimen pada komentar YouTube terkait video review Samsung A56. Dengan menggunakan teknik text mining, proyek ini mengekstrak, membersihkan, dan menganalisis ribuan komentar untuk mengetahui persepsi publik terhadap produk tersebut.
@@ -26,4 +26,4 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada komentar YouTube ter
 
 ## Catatan
 - Proyek ini menggunakan data publik dari YouTube untuk tujuan pembelajaran.
-- Hasil analisis dapat digunakan untuk memahami persepsi konsumen terhadap produk Samsung A56. 
+- Hasil analisis dapat digunakan untuk memahami persepsi konsumen terhadap produk Samsung A56.
